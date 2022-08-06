@@ -14,6 +14,7 @@ Prerequisites
     
     kubectl config get-contexts && 
     aws eks --region us-east-2 update-kubeconfig --name "education-eks-GcR1ym71"
+    terraform destroy -auto-approve
     
 
 
