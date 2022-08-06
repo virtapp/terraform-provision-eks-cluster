@@ -4,9 +4,9 @@ Documentation
 
 Prerequisites
 
-    Install components for innovi platform
+    Install terraform-provision-eks-cluster 
     Get files from source
-    Example : Clone repository on master server 
+    Example : Clone repository
     
     terraform init -upgrade
     terraform plan -out terraform.plan
